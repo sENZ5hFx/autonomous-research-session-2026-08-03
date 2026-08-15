@@ -11,7 +11,7 @@ repository-code: https://github.com/sENZ5hFx/autonomous-research-session-2026-08
 url: https://github.com/sENZ5hFx/autonomous-research-session-2026-08-03
 date-released: 2026-08-03
 version: 0.1.0
-license: SEE_LICENSE_FILE
+license: BSL-1.1
 keywords:
   - autonomous research
   - knowledge gaps
