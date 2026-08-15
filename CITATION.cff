@@ -2,15 +2,6 @@ cff-version: 1.2.0
 message: 'If you use this repository, please cite it using the metadata in this file.'
 title: autonomous-research-session-2026-08-03
 type: software
-version: "0.1.0"
-license: SEE_LICENSE_FILE
-keywords:
-  - autonomous research
-  - research session
-  - knowledge gaps
-  - space research
-  - ocean research
-  - biology research
 authors:
   - given-names: Haley Ann
     family-names: Bird
@@ -19,4 +10,13 @@ authors:
 repository-code: https://github.com/sENZ5hFx/autonomous-research-session-2026-08-03
 url: https://github.com/sENZ5hFx/autonomous-research-session-2026-08-03
 date-released: 2026-08-03
-abstract: "A dated autonomous research-session output examining knowledge gaps across space, ocean, earth, and biology."
+version: 0.1.0
+license: SEE_LICENSE_FILE
+keywords:
+  - autonomous research
+  - knowledge gaps
+  - space research
+  - ocean research
+  - earth science
+  - biology
+abstract: 'A timestamped autonomous research session documenting knowledge gaps across space, ocean, earth, and biology.'
