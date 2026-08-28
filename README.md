@@ -1,18 +1,9 @@
-# autonomous-research-session-2026-08-03
+# Historical public research record — disclosure review
 
-Autonomous research session output across space, ocean, Earth, and biology — 2026-08-03.
+This repository contains an AI-assisted research-session record that was previously made public.
 
-## Scope
+The current default branch has been intentionally minimized while disclosure and protection strategy are reviewed. Detailed material from earlier public commits remains part of the historical public record; this change does **not** undo or retract prior disclosure.
 
-This repository preserves an AI-assisted/autonomous research-session record exploring **candidate** knowledge gaps across multiple scientific domains.
+No current statement here should be treated as proof of novelty, scientific validation, peer review, patentability, filing status, patent-pending status, or legal priority.
 
-## Evidence boundary
-
-- A candidate gap is not automatically a genuine absence in the literature.
-- Generated synthesis and classifications require source-level verification before being treated as established fact.
-- Repository timestamps document chronology only; they are not peer review, experimental validation, patent filing records, or legal-priority determinations.
-- Primary sources and current literature control where they conflict with this session record.
-
-## Intended use
-
-Use as a research log, discovery aid, and starting point for verification.
+Historical commits are preserved for provenance and future review. No additional detailed research or enabling mechanics should be added to the public branch without an explicit disclosure decision.
